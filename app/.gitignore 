@@ -1,0 +1,30 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+*.apk
+*.ap_
+.cxx/
+*.log
+
+# Keystore files
+*.jks
+
+# NDK
+obj/
+
+# IntelliJ
+*.iws
+*.ipr
+*.hprof
+
+# Log & crash reports
+crashlytics-build.properties
+fabric.properties
+
+# Misc
+captures/
+output.json
